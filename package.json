@@ -1,0 +1,22 @@
+{
+    "name": "todo_api_glr",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "type": "module",
+    "private": "true",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [],
+    "author": {
+        "email": "valdiszz53@gmail.com",
+        "name": "Vladislav"
+    },
+    "license": "ISC",
+    "devDependencies": {
+        "@types/node": "^20.11.28",
+        "@vercel/node": "^3.0.24",
+        "typescript": "^5.4.2"
+    }
+}
